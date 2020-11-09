@@ -87,5 +87,5 @@ Better way of wanting
    * Learn the lessons
    * Have a growth mindset
 * wanting better stuff that you don't want yet
-   * chance to do the act of **kindness**   
+   * chance to do the act of **kindness**
    
