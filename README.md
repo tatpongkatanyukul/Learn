@@ -31,14 +31,18 @@ What psychological science says about the good life?
        * Prodigies 
      * Selective absence (some people don't have it)
      
-     24 Character strengths:
-       * appreciation of beauty, kindness, bravery, leadership, citizenship, love, 
-       * creativity, love of learning, curiosity, modesty and humility,
-       * fairness, persistence, forgiveness and mercy, perspective, gratitude, prudence, hope, self-regulation,
-       * humor, social intelligence, integrity, spirituality, judgement, zest
+Character strengths:
+   * appreciation of beauty, kindness, bravery, leadership, citizenship, love, 
+   * creativity, love of learning, curiosity, modesty and humility,
+   * fairness, persistence, forgiveness and mercy, perspective, gratitude, prudence, hope, self-regulation,
+   * humor, social intelligence, integrity, spirituality, judgement, zest
        
 > Seligman et al. 2005: "Use one of your top strengths in a new and different way everyday for one week."
-   
+
+> Harzer & Ruch 2012: "What makes people think of their job as "a calling"?
+Tested the # of signature strengths they use throughout the day
+--> Use multple of your signature strengths makes it a calling.
+
    Better way of wanting
    * wanting the right parts of what we already want
      * a "good" job: 2 factors
