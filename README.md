@@ -43,9 +43,28 @@ Character strengths:
 Tested the # of signature strengths they use throughout the day
 --> Use multple of your signature strengths makes it a calling.
 
+Mihaly Csikszentmihaly: Flow (~ enjoy doing)
+
+Some features of flow
+  * challenging but attainable goals
+  * strong focused concentration
+  * the activity is intrinsically rewarding
+  * feelings of serenity
+  * loss of self-consciousness
+  * timelessness / lose track of time passing
+  * lack of awareness of physical needs
+  * **complete focus on the activity itself**
+  
+  Flow = matching of fully applying skills to the matchingly high challenges
+  
+  Extrinsic motivation = engaging in a behavior in order to earn external rewards or avoid punishments
+  Intrinsic motivation = engaging in a behavior because you enjoy the activity itself
+
    Better way of wanting
    * wanting the right parts of what we already want
-     * a "good" job: 2 factors
+     * E.g., a "good" job: 2 factors
        * Job that activates or allow you to use your signature strengths
+       * Job that increases flow
+     * E.g., a "good" grade
    * wanting better stuff that you don't want yet
    
