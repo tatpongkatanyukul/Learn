@@ -74,6 +74,9 @@ Fixed mindset
 
 Otake et al. (2006): kindness correlates to happiness
 Lyubomirksy et al. (2005): random act of kindness
+> Dunn et al. (2008): found that spending money on other people made their subjects happier than spending on themselves. 
+> They also found that the amount of money they spent on others didn't affect the outcome; 
+> the people who spent $5 on someone else were just as happy as the people who spent $20 on someone else.
 
 Better way of wanting
 * wanting the right parts of what we already want
