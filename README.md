@@ -70,15 +70,19 @@ Growth mindset
 Fixed mindset
    * The belieft that basic qualities like intelligence and talent are fixed.
    
-   
+--> Growth mindset can be trained.   
 
+Otake et al. (2006): kindness correlates to happiness
+Lyubomirksy et al. (2005): random act of kindness
 
-
-   Better way of wanting
-   * wanting the right parts of what we already want
-     * E.g., a "good" job: 2 factors
-       * Job that activates or allow you to use your signature strengths
-       * Job that increases flow
-     * E.g., a "good" grade
-   * wanting better stuff that you don't want yet
+Better way of wanting
+* wanting the right parts of what we already want
+ * E.g., a "good" job: 2 factors
+   * Job that activates or allow you to use your signature strengths
+   * Job that increases flow
+ * E.g., a "good" grade
+   * Learn the lessons
+   * Have a growth mindset
+* wanting better stuff that you don't want yet
+   * chance to do the act of **kindness**   
    
