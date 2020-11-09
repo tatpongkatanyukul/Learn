@@ -55,10 +55,24 @@ Some features of flow
   * lack of awareness of physical needs
   * **complete focus on the activity itself**
   
-  Flow = matching of fully applying skills to the matchingly high challenges
+Flow = matching of fully applying skills to the matchingly high challenges
   
-  Extrinsic motivation = engaging in a behavior in order to earn external rewards or avoid punishments
-  Intrinsic motivation = engaging in a behavior because you enjoy the activity itself
+Extrinsic motivation = engaging in a behavior in order to earn external rewards or avoid punishments
+  
+Intrinsic motivation = engaging in a behavior because you enjoy the activity itself
+
+Deci 1971: Extrinsic motivation may undermine intrinsic motivation.
+--> A focus on grades can undermine instrinsic motivation and a growth mindset.
+
+Growth mindset
+   * The belief that intelligence can be trained.
+   
+Fixed mindset
+   * The belieft that basic qualities like intelligence and talent are fixed.
+   
+   
+
+
 
    Better way of wanting
    * wanting the right parts of what we already want
