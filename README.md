@@ -88,4 +88,5 @@ Better way of wanting
    * Have a growth mindset
 * wanting better stuff that you don't want yet
    * chance to do the act of **kindness**
+   * social connection
    
