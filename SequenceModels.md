@@ -1,5 +1,6 @@
 # Sequence Models
 a 3-week online course by Andrew Ng, Nov 2020
+
 ---
 
 ## Week 1: Recurrent Neural Networks
@@ -17,6 +18,7 @@ a 3-week online course by Andrew Ng, Nov 2020
    * Long Short-Term Memory (LSTM)
    * Bi-directional RNN
    * Deep RNNs
+   
 ## Week 2: Natural Language Processing & Word Embeddings
 
 ## Week 3: Sequence models & Attention mechanism
