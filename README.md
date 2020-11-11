@@ -22,5 +22,19 @@ Computer Generated Imagery, etc.)
    * [Quantum Mechanics for Everyone](https://github.com/tatpongkatanyukul/Learn/blob/main/QuantumMech.md)
    * [Collaborative Data Science for Healthcare](https://github.com/tatpongkatanyukul/Collaborative)
 
+## Read
 
+### 2020
+
+   * Sean B. Carrol's The Serengetti Rules
+   * อ พรหม ชวนม่วนชื่น
+   * นิ้วกลม สิ่งสำคัญของชีวิต 
+     * (ไม่ค่อยชอบ)
+   * หนุ่มเมืองจันทร์ ความสุข ณ จุดที่ยืนอยู่
+   
+## Reading
+
+   * Eckhart Tolle's The Power of Now
+   * Brian L. Weiss's Messages from The Masters
+   * Ajahn Brahm's The Art of Disappearing
    
