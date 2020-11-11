@@ -19,8 +19,8 @@ Computer Generated Imagery, etc.)
 
 ## EdX
 
-   * [Quantum Mechanics for Everyone]
-   * [Collaborative Data Science for Healthcare]
+   * [Quantum Mechanics for Everyone](https://github.com/tatpongkatanyukul/Learn/blob/main/QuantumMech.md)
+   * [Collaborative Data Science for Healthcare](https://github.com/tatpongkatanyukul/Collaborative)
 
 
    
