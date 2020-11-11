@@ -19,5 +19,5 @@ a 4-week online course by Georgetown University 2019
    * Richard Feynman's QED: The strange theory of light and matter
    * Daniel Styer's The strange world of quantum mechanics
    
-> "Always remain curious, always ask why, always"
+> "Always remain curious, always ask why, always try to think of the answer. nver be intimidated if you don't understand."
 
