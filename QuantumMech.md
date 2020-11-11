@@ -1,5 +1,5 @@
 # Quantum Mechanics for Everyone
-a 4-week online course by Georgetown University 2019
+a 4-week online course by J. K. Freericks Georgetown University 2019
 
 ## Introduction to the Quantum World
 
