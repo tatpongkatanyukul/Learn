@@ -22,7 +22,7 @@ Computer Generated Imagery, etc.)
    * [Quantum Mechanics for Everyone](https://github.com/tatpongkatanyukul/Learn/blob/main/QuantumMech.md)
    * [Collaborative Data Science for Healthcare](https://github.com/tatpongkatanyukul/Collaborative)
 
-## Read
+## Have Read
 
 ### 2020
 
