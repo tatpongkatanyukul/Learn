@@ -28,13 +28,12 @@ Computer Generated Imagery, etc.)
 
    * Sean B. Carrol's The Serengetti Rules
    * อ พรหม ชวนม่วนชื่น
-   * นิ้วกลม สิ่งสำคัญของชีวิต 
-     * (ไม่ค่อยชอบ)
    * หนุ่มเมืองจันทร์ ความสุข ณ จุดที่ยืนอยู่
+   * นิ้วกลม สิ่งสำคัญของชีวิต 
    
 ## Reading
 
    * Eckhart Tolle's The Power of Now
    * Brian L. Weiss's Messages from The Masters
    * Ajahn Brahm's The Art of Disappearing
-   
+   * นิ้วกลม สิ่งสำคัญของหัวใจ   
