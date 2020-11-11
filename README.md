@@ -14,8 +14,8 @@ Computer Generated Imagery, etc.)
 
 ## Coursera
 
-    * [The Science of Well-Being 2020](https://github.com/tatpongkatanyukul/Learn/blob/main/ScienceOfWellBeing.md)
-    * [Sequence Models](https://github.com/tatpongkatanyukul/Learn/blob/main/SequenceModels.md)
+   * [The Science of Well-Being 2020](https://github.com/tatpongkatanyukul/Learn/blob/main/ScienceOfWellBeing.md)
+   * [Sequence Models](https://github.com/tatpongkatanyukul/Learn/blob/main/SequenceModels.md)
 
 ## EdX
 
