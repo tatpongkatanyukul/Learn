@@ -22,7 +22,11 @@ a 3-week online course by Andrew Ng, Nov 2020
        * E.g., Cats averages 15 hours of sleep a day <EOS> --> y(1), y(2), ...
        * each y(t) may be a one-hot vector or another type of numerical representation
        * EOS = End-of-Sentence token
-       * 
+       * token ~ represents one of the most commonly used english words
+         * The Eggyptian Mau is a bread of cat.<EOS>
+         * Mau --> replaced by <unk> or the unknown token
+         * MY QUESTION: Are all the new/unknown words getting the same <unk> token or do they have their own? 
+  E.g., Mau = unk1, Maui = unk2
       
   
    
