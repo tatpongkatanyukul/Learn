@@ -10,7 +10,7 @@ a 3-week online course by Andrew Ng, Nov 2020
    * Backpropagation through time
    * Different types of RNNs
      * Many-to-many, many-to-one, one-to-many, one-to-one
-     * Many-to-many with Tx = Ty and Many-to-many with Tx \neq Ty
+     * Many-to-many with Tx = Ty and Many-to-many with Tx != Ty
    * Language model and sequence generation
    * Sampling novel sequences
    * Vanishing gradients with RNNs
