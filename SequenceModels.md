@@ -56,6 +56,11 @@ a 3-week online course by Andrew Ng, Nov 2020
       * go = sigma( Wo [z(t-1), x(t)] + bo )# output gate
       * c(t) = gu * c'(t) + gf * c(t-1)
       * z(t) = go * tanh( c(t) )
+   * Peephole
+      * gu = sigma( Wu [z(t-1), x(t), **c(t-1)**] + bu )
+      * gf = sigma( Wf [z(t-1), x(t), **c(t-1)**] + bf ) # forget gate
+      * go = sigma( Wo [z(t-1), x(t), **c(t-1)**] + bo )# output gate
+   
       
    * Bi-directional RNN
    * Deep RNNs
