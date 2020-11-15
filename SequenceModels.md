@@ -67,7 +67,17 @@ a 3-week online course by Andrew Ng, Nov 2020
       * c(t) = gu * c'(t) + gf * c(t-1)
       * z(t) = go * tanh( c(t) )      
    * Bi-directional RNN
-   
+      * motivation
+        * He said, "Teddy bears are on sale!"
+        * He said, "Teddy Roosevelt was a great President."
+        * It needs later datapoint (e.g., "on sale" or "president") to determine what Teddy is.
+      * Mechanism
+        * y(t) = h( Wy [ z(t), z'(t) ] + by )
+        * z(t) : forward direction, e.g., z(t) = h( W x(t) + b )
+        * z'(t) : backward direction, e.g., z'(t) = h( W **x(T-t+1)** + b )
+      * Drawback
+        * need the entire sequence before we can make a prediction, i.e., need to wait until sentence ends.
+    
    * Deep RNNs
    
 ## Week 2: Natural Language Processing & Word Embeddings
