@@ -80,8 +80,9 @@ a 3-week online course by Andrew Ng, Nov 2020
         * need the entire sequence before we can make a prediction, i.e., need to wait until sentence ends.
    * Deep RNNs
       * Sometimes, it is useful to stack layers together to build a more powerful model.
-      * x -> z^(1) -> z^(2) -> z^(3) -> y
-      
+      * x -> z^{1} -> z^{2} -> z^{3} -> y
+      * Mechanism
+        * z^{L}(t) = h( W^{L} [z^{L}(t-1), z^{L-1}(t)] + b^{L})
    
 ## Week 2: Natural Language Processing & Word Embeddings
 
