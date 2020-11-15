@@ -118,7 +118,7 @@ Chronic times having less than 5 hours or less of sleep, you are:
   * increase risk of obesity
   * quadruple stroke risk
 
-Better way of wanting
+## Better way of wanting
 * wanting the right parts of what we already want
  * E.g., a "good" job: 2 factors
    * Job that activates or allow you to use your signature strengths
