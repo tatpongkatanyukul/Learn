@@ -79,6 +79,24 @@ Lyubomirksy et al. (2005): random act of kindness
 > They also found that the amount of money they spent on others didn't affect the outcome; 
 > the people who spent $5 on someone else were just as happy as the people who spent $20 on someone else.
 
+> Our minds wanders 46.9% of the time! (Killingsworth & Gilbert 2010)
+default network = a network of interacting brain regions known to activate "by default" when a person is not involved in the task.
+  * Default Mode Network (DMN) comes on within a fraction of a second after task.
+  * DMN thinks outside the here & now: past, future, others (e.g., fantasy, what others think)
+  * mind wandering is likely to lead to unpleasant feeling.
+     * meditation helps curbing out mind wandering.
+     
+Hedy Kober: Brewer et al. 2011
+  * meditation exprts vs controls
+  * shut off the DMN (during and after the med session)
+  * more connection on other parts
+  
+Hoelzel et al.2011  study gray matter size before/after 8-week mindfulness-basedstress reduction course
+average 27 min/day ---> increase the gray matter size
+Mrakek et al. (2013): meditation boosts in cognitive performance.
+
+Hutcherson et al. 2008: loving-kindness meditation increases social connection.
+
 Better way of wanting
 * wanting the right parts of what we already want
  * E.g., a "good" job: 2 factors
@@ -90,3 +108,8 @@ Better way of wanting
 * wanting better stuff that you don't want yet
    * chance to do the act of **kindness**
    * social connection
+   * time affluent: having time to the things that we enjoy
+   * mind control: control our own mind (not all over the place/mind wandering)
+      * meditation (also has other benefits)
+   
+    
