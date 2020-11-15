@@ -97,6 +97,18 @@ Mrakek et al. (2013): meditation boosts in cognitive performance.
 
 Hutcherson et al. 2008: loving-kindness meditation increases social connection.
 
+
+Babyak et al. 2000: 156 people suffering from major depression: exercise is better than taking anti-depressant
+Hillman et al. 2008: exercise helps cognitive outcomes
+
+Dingses et al. 1997: normal sleep (7.4 hr) vs deprived sleep (4.98 hr)
+* normal sleep has better mood and **less complaints**.
+
+Walker et al. 2002: sleep helps cognitive performance.
+* taking nap during the day helps cognitive performance
+
+**Wagner et al. 2004**: (cool!) test if subjects figure out the secret rules (insight).
+
 Better way of wanting
 * wanting the right parts of what we already want
  * E.g., a "good" job: 2 factors
@@ -111,5 +123,7 @@ Better way of wanting
    * time affluent: having time to the things that we enjoy
    * mind control: control our own mind (not all over the place/mind wandering)
       * meditation (also has other benefits)
-   
+   * healthy practices
+      * exercise
+      * sleep
     
