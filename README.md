@@ -36,4 +36,4 @@ Computer Generated Imagery, etc.)
    * Eckhart Tolle's The Power of Now
    * Brian L. Weiss's Messages from The Masters
    * Ajahn Brahm's The Art of Disappearing
-   * นิ้วกลม สิ่งสำคัญของหัวใจ   
+   * นิ้วกลม สิ่งสำคัญของหัวใจ (บทสนทนากับ ประมวล เพ็งจันทร์)
