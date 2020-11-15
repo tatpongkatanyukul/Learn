@@ -44,8 +44,19 @@ a 3-week online course by Andrew Ng, Nov 2020
    * Gated Recurrent Unit (GRU)
       * address vanishing gradient (especially in long-term dependency)
       * E.g., The cat, which ate already, was full.
-      * c'(t) = tanh( Wc [c(t-1), x(t) ] )
+      * gr = sigma( Wr [c(t-1), x(t)] + br ) # relevant gate
+      * c'(t) = tanh( Wc [gr * c(t-1), x(t)] + bc )
+      * gu = sigma( Wu [c(t-1), x(t)] + bu ) # update gate
+      * c(t) = gu * c'(t) + (1 - gu) * c(t-1)
+      * c(t) is called 'cell'
    * Long Short-Term Memory (LSTM)
+      * c'(t) = tanh( Wc [z(t-1), x(t)] + bc )
+      * gu = sigma( Wu [z(t-1), x(t)] + bu )
+      * gf = sigma( Wf [z(t-1), x(t)] + bf ) # forget gate
+      * go = sigma( Wo [z(t-1), x(t)] + bo )# output gate
+      * c(t) = gu * c'(t) + gf * c(t-1)
+      * z(t) = go * tanh( c(t) )
+      
    * Bi-directional RNN
    * Deep RNNs
    
