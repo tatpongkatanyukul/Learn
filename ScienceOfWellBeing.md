@@ -109,6 +109,15 @@ Walker et al. 2002: sleep helps cognitive performance.
 
 **Wagner et al. 2004**: (cool!) test if subjects figure out the secret rules (insight).
 
+Chronic times having less than 5 hours or less of sleep, you are:
+  * increase risk of death
+  * decrease sperm count
+  * increase risk of heart disease
+  * increase risk of diabetes
+  * increase risk of some cancers
+  * increase risk of obesity
+  * quadruple stroke risk
+
 Better way of wanting
 * wanting the right parts of what we already want
  * E.g., a "good" job: 2 factors
