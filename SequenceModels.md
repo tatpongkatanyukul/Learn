@@ -39,7 +39,12 @@ a 3-week online course by Andrew Ng, Nov 2020
       * Train w/ a(0) = 0, x(1) = 0, x(2) = y(1), x(3) = y(2), ...
       * Use w/ a(0) = 0, x(1) = 0, yhat(1) = softmax --> sample based on yhat(1) --> ypred(1), x(2) = ypred(1), x(3) = ypred(2), ...
    * Vanishing gradients with RNNs
+      * recurrent effect is similar to a deep network: vanishing gradient
+      * there is also an exploding gradient. Exploding gradient can be handled easily by **gradient clipping**.
    * Gated Recurrent Unit (GRU)
+      * address vanishing gradient (especially in long-term dependency)
+      * E.g., The cat, which ate already, was full.
+      * c'(t) = tanh( Wc [c(t-1), x(t) ] )
    * Long Short-Term Memory (LSTM)
    * Bi-directional RNN
    * Deep RNNs
