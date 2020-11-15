@@ -49,6 +49,9 @@ a 3-week online course by Andrew Ng, Nov 2020
       * gu = sigma( Wu [c(t-1), x(t)] + bu ) # update gate
       * c(t) = gu * c'(t) + (1 - gu) * c(t-1)
       * c(t) is called 'cell'
+      * papers: 
+        * Cho et al. 2014. On the properties of neural machine translation: encoder-decoder approaches
+        * Chung et al. 2014. Empirical evaluation of Gated Recurrent Neural Networks on Sequence Modeling
    * Long Short-Term Memory (LSTM)
       * c'(t) = tanh( Wc [z(t-1), x(t)] + bc )
       * gu = sigma( Wu [z(t-1), x(t)] + bu )
@@ -56,13 +59,15 @@ a 3-week online course by Andrew Ng, Nov 2020
       * go = sigma( Wo [z(t-1), x(t)] + bo )# output gate
       * c(t) = gu * c'(t) + gf * c(t-1)
       * z(t) = go * tanh( c(t) )
-   * Peephole
+   * LSTM with Peephole
+      * c'(t) = tanh( Wc [z(t-1), x(t)] + bc )
       * gu = sigma( Wu [z(t-1), x(t), **c(t-1)**] + bu )
       * gf = sigma( Wf [z(t-1), x(t), **c(t-1)**] + bf ) # forget gate
       * go = sigma( Wo [z(t-1), x(t), **c(t-1)**] + bo )# output gate
-   
-      
+      * c(t) = gu * c'(t) + gf * c(t-1)
+      * z(t) = go * tanh( c(t) )      
    * Bi-directional RNN
+   
    * Deep RNNs
    
 ## Week 2: Natural Language Processing & Word Embeddings
