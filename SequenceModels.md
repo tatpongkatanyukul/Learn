@@ -87,5 +87,15 @@ a 3-week online course by Andrew Ng, Nov 2020
       * Or, we may see RNN whose output connects to a deep network (which has no recurrent layer)
    
 ## Week 2: Natural Language Processing & Word Embeddings
+  * Word representation
+  * Using word embeddings
+  * Properties of word embeddings
+  * Embedding matrix
+  * Learning word embeddings
+  * Word2Vec
+  * Negative Sampling
+  * GloVe word vectors
+  * Sentiment Classification
+  * Debiasing word embeddings
 
 ## Week 3: Sequence models & Attention mechanism
