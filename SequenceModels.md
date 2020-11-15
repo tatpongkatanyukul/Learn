@@ -83,6 +83,8 @@ a 3-week online course by Andrew Ng, Nov 2020
       * x -> z^{1} -> z^{2} -> z^{3} -> y
       * Mechanism
         * z^{L}(t) = h( W^{L} [z^{L}(t-1), z^{L-1}(t)] + b^{L})
+      * c.f. Feedforward networks (and CNN), 3 layers in RNN seem to be quite a lot (w/ temporal recurrent effect)
+      * Or, we may see RNN whose output connects to a deep network (which has no recurrent layer)
    
 ## Week 2: Natural Language Processing & Word Embeddings
 
