@@ -87,15 +87,110 @@ a 3-week online course by Andrew Ng, Nov 2020
       * Or, we may see RNN whose output connects to a deep network (which has no recurrent layer)
    
 ## Week 2: Natural Language Processing & Word Embeddings
-  * Word representation
-  * Using word embeddings
-  * Properties of word embeddings
-  * Embedding matrix
-  * Learning word embeddings
-  * Word2Vec
-  * Negative Sampling
-  * GloVe word vectors
-  * Sentiment Classification
-  * Debiasing word embeddings
+
+### Word representation
+
+V = [a, aaron, …, zulu, <UNK>]
+
+**1-hot representation**
+Man
+[0,0,0, …, 1, 0, 0]
+Woman
+[0,0,0, …, 0, 1, 0]
+
+No relation between 2 different closely related concept.
+I want a glass of orange juice.
+I want a glass of apple juice.
+With 1-hot, orange and apple cannot be related as orange and dog.
+
+**Featurized representation: word embedding**
+E.g.
+
+		Man	Woman	King	Queen	Apple	Orange
+Gender:	-1	1		-0.95	0.97	0	0
+Royal:		0.01	0.02		0.93	0.95	-0.01	0.00
+Age:		0.03	0.02		0.7	0.69	0.03	-0.02
+Food:		0	0		0	0	0.9	0.92
+
+
+Visualize word embedding: use t-SNE
+(see how clusters relate to similar concepts)
+
+  
+### Using word embeddings
+
+Named entity recognition example
+E.g.,
+input: Sally Johnson is an orange farmer. ; output: 1 1 0 0 0 0.
+Robert Lin is an apple farmer.
+T K is a durian cultivator. orchardist
+
+Word embedding allows transfer learning: take a lot of unlabeled texts (e.g., words from the internet) to figure out orange, apple, durean are fruits.
+
+Transfer learning and word embeddings
+  1. Learn word embeddings from large text corpus (1-100B words)
+(or download pre-trained embedding online)
+  2. Transfer embedding to new task with smaller training set. (say, 100k) words)
+  3. Optional: Continue to finetune the word embeddings with new data.
+
+Word embeddings are useful for named entity recognition, for text summarization, for co-reference resolution, for parsing.
+It is less useful for language modeling, machine translation, especially if you're accessing a language modeling or machine translation task for which you have a lot of data just dedicated to that task.
+
+Transfer from some task A to same task B.
+The process of transfer learning is just most useful when you happen to have a ton of data for task A and a relatively smaller data set for B.
+
+compare to siamese-twin network: face verificaiton (deepFace)
+
+encoding .... embedding
+difference:
+  * encoding: learn new encoding from unlimited source
+  * embedding: learn embedding and then fixed. Learn from a limited set of words.
+
+
+### Properties of word embeddings
+
+(Mikolov et al. 2013, Linguistic regularities in continuous space and word representations)
+
+Analogy
+E.g.,
+Man -> Woman as King -> ?
+
+embed_man - embed_woman = [-2, 0, 0, 0]
+embed_king - embed_queen = [-2, 0, 0, 0]
+
+The main difference between man-woman and king-queen is the gender.
+
+embed_man - embed_woman = embed_king - embed_what
+
+Find word w: arg max_w similarity(embed_w, embed_king - embed_man + embed_woman)
+
+similarity: similarity function
+
+The most common similarity function is cosine similarity:
+sim(u, v) = u^t v/(||u||_2 ||v||_2).
+
+
+### Embedding matrix
+
+--> a matrix of (a number of words x a number of features)
+--> abbreviated as E.
+
+E dot one-hot vector = feature vector corresponding to that (one-hot) word.
+
+The "feature vector" is called the "embedding."
+
+In practice, we use a sifting operation to get the embedding rather than matrix dot operation, which is inefficient.
+
+### Learning word embeddings
+
+### Word2Vec
+
+### Negative Sampling
+
+### GloVe word vectors
+ 
+### Sentiment Classification
+
+### Debiasing word embeddings
 
 ## Week 3: Sequence models & Attention mechanism
