@@ -25,6 +25,7 @@ Computer Generated Imagery, etc.)
 ## Attend
 
    * AI for Healthcare workshop (Nov 26-27, 2020)
+      * [Class Activation Mapping](http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf): "the predicted class score is mapped back to the previous convolutional layer to generate the class activation maps" 
       * [Ciracore](https://www.facebook.com/groups/cira.core.comm/) (AI platform, run on Ubuntu)
          * [PC (Ubuntu 16.04)](https://git.cira-lab.com/cira/cira-core)
          * [Jetson (Jetpack 4.4)](https://git.cira-lab.com/cira/cira-core-nvidia-jetson)
