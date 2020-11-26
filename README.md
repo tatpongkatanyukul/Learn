@@ -26,6 +26,8 @@ Computer Generated Imagery, etc.)
 
    * AI for Healthcare workshop (Nov 26-27, 2020)
       * [Ciracore](https://www.facebook.com/groups/cira.core.comm/) (AI platform, run on Ubuntu)
+         * [PC (Ubuntu 16.04)](https://git.cira-lab.com/cira/cira-core)
+         * [Jetson (Jetpack 4.4)](https://git.cira-lab.com/cira/cira-core-nvidia-jetson)
 
 ## Have Read
 
