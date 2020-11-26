@@ -35,6 +35,9 @@ Computer Generated Imagery, etc.)
          * [Jetson (Jetpack 4.4)](https://git.cira-lab.com/cira/cira-core-nvidia-jetson)
          
       * IoT: ESP Wroom 32     
+        * Raspberry Pi ~ small computer
+        * Jetson Nano ~ CUDA capable
+        * ESP 32 ~ cheap, requires low energy w/ WIFI and bluetooth
 
 ## Have Read
 
