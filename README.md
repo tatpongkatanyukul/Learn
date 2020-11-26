@@ -38,6 +38,8 @@ Computer Generated Imagery, etc.)
         * Raspberry Pi ~ small computer
         * Jetson Nano ~ CUDA capable
         * ESP 32 ~ cheap, requires low energy w/ WIFI and bluetooth
+        * Near Field Communication (NFC) ~ close range communication (one-to-one)
+        
 
 ## Have Read
 
