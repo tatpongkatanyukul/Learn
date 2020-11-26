@@ -17,6 +17,7 @@ Computer Generated Imagery, etc.)
    * [The Science of Well-Being 2020](https://github.com/tatpongkatanyukul/Learn/blob/main/ScienceOfWellBeing.md)
    * [Sequence Models](https://github.com/tatpongkatanyukul/Learn/blob/main/SequenceModels.md)
    * [C for Everyone](https://github.com/tatpongkatanyukul/Learn/blob/main/CforEveryone/FirstProgram.md)
+      * [try it online](https://www.onlinegdb.com/online_c_compiler)
 
 ## EdX
 
