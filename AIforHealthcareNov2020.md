@@ -25,7 +25,7 @@
    * Communication: I2C is the most convenient option
    * microPython
    
-   ```
+   ```python
    print('test')
    ```
    
