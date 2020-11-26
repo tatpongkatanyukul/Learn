@@ -7,7 +7,8 @@ UC Santa Cruz
 #include <stdio.h>
 int main()
 {
-  printf("Hello World");
+  printf("Hello World\n");
   return 0;
 }  
 ```
+stdio.h is a library for standard I/O
