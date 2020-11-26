@@ -20,5 +20,12 @@ Two strategies
       * mental contrasting = a visualization technique involving first thinking of positive future outcome followed by thinking of obstacles.
     3. Goal planning
       * Implementation intention = a self-regulatory strategy in the form of an "if-then" plan that can lead to better goal attainment. E.g., if I see free cookies, I'll walk away.
+    
+WOOP:
+  * think about your __WISH__
+  * the best OUTCOME
+  * potential OBSTACLES
+  * your if/then PLAN
+   
       
     
