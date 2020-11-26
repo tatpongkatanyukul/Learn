@@ -29,6 +29,7 @@ Computer Generated Imagery, etc.)
       * Idea: sequence -> image
         * Engine inspection using running noise: speech -> spectogram -> analyzed using CNN
         * DNA sequence -> color image: upto 16M necleotides
+          * perhaps, 1D-to-2D mapping may affect short- and long-term dependency. (Some may be enhanced. Some may be hindered.) 
       * [Ciracore](https://www.facebook.com/groups/cira.core.comm/) (AI platform, run on Ubuntu)
          * [PC (Ubuntu 16.04)](https://git.cira-lab.com/cira/cira-core)
          * [Jetson (Jetpack 4.4)](https://git.cira-lab.com/cira/cira-core-nvidia-jetson)
