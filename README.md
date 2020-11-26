@@ -25,7 +25,7 @@ Computer Generated Imagery, etc.)
 ## Attend
 
    * AI for Healthcare workshop (Nov 26-27, 2020)
-      * Ciracore (AI platform, run on Ubuntu)
+      * [Ciracore](https://www.facebook.com/groups/cira.core.comm/) (AI platform, run on Ubuntu)
 
 ## Have Read
 
