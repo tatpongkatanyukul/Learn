@@ -275,3 +275,7 @@ This paper tells us sleeping boosts cognitive performance
 
 Huffington Post. Lose Sleep, Lose Your Mind and Health
 This graphic shows the negative implications of poor sleep after one night and prolonged over time
+
+
+## Week 6: Putting Strategies into Practices
+
