@@ -22,6 +22,11 @@ Computer Generated Imagery, etc.)
    * [Quantum Mechanics for Everyone](https://github.com/tatpongkatanyukul/Learn/blob/main/QuantumMech.md)
    * [Collaborative Data Science for Healthcare](https://github.com/tatpongkatanyukul/Collaborative)
 
+## Attend
+
+   * AI for Healthcare workshop (Nov 26-27, 2020)
+      * Ciracore (AI platform, run on Ubuntu)
+
 ## Have Read
 
 ### 2020
