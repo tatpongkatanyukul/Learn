@@ -277,5 +277,6 @@ Huffington Post. Lose Sleep, Lose Your Mind and Health
 This graphic shows the negative implications of poor sleep after one night and prolonged over time
 
 
-## Week 6: Putting Strategies into Practices
+## Week 6
+[Putting Strategies into Practices](https://github.com/tatpongkatanyukul/Learn/blob/main/SciWellBeing/week6.md)
 
