@@ -23,7 +23,7 @@
      * SaaS: Dropbox (user has to stick w/ provided software)
    * Question: how can we find sensor that suits our need?
    * Communication: I2C is the most convenient option
-   * microPython
+   * [microPython](https://micropython.org/download/esp32/)
    
    ```python
    print('test')
