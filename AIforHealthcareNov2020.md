@@ -21,3 +21,5 @@
      * IaaS: AWS (user can choose OS)
      * PaaS: Google App Engine, Microsoft Azure (user has to stick w/ provided OS)
      * SaaS: Dropbox (user has to stick w/ provided software)
+   * Question: how can we find sensor that suits our need?
+   
