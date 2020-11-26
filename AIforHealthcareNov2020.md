@@ -31,3 +31,5 @@
    * uPyCraft IDE (microPyCraft)
    * [firmware](https://micropython.org/download/esp32/)
    * [download slides](https://drive.google.com/drive/u/1/folders/1Tkr-YQidvtvg1nxUe4cxlgRDyJR6Uu1R)
+
+  * [Blynk](https://blynk.io/)
