@@ -53,3 +53,7 @@ Computer Generated Imagery, etc.)
 ## Want to read
    * Les Misérables, Victor Hugo
    * Siddhartha, Hermann Hesse
+
+## Sabbatical leave
+   * learned quantum mechanics, drug discoveries, CNN, GAN, RNN
+      * I have achieved what I had planned for.
