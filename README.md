@@ -28,21 +28,28 @@ Computer Generated Imagery, etc.)
 
    * [AI for Healthcare workshop (Nov 26-27, 2020)](https://github.com/tatpongkatanyukul/Learn/blob/main/AIforHealthcareNov2020.md)
         
-          
-        
+
+## Have listened
+
+### 2020
+   * A Tale of Two Cities, Charles Dickens
+   * Jonathan Livingston Seagull, Richard Bach
 
 ## Have Read
 
 ### 2020
-
    * Sean B. Carrol's The Serengetti Rules
+   * นิ้วกลม สิ่งสำคัญของชีวิต 
    * อ พรหม ชวนม่วนชื่น
    * หนุ่มเมืองจันทร์ ความสุข ณ จุดที่ยืนอยู่
-   * นิ้วกลม สิ่งสำคัญของชีวิต 
-   
-## Reading
+   * Eckhart Tolle's The Power of Now (Done Dec 1st, 2020)
 
-   * Eckhart Tolle's The Power of Now
+
+## Reading
+   * นิ้วกลม สิ่งสำคัญของหัวใจ (บทสนทนากับ ประมวล เพ็งจันทร์)
    * Brian L. Weiss's Messages from The Masters
    * Ajahn Brahm's The Art of Disappearing
-   * นิ้วกลม สิ่งสำคัญของหัวใจ (บทสนทนากับ ประมวล เพ็งจันทร์)
+
+## Want to read
+   * Les Misérables, Victor Hugo
+   * Siddhartha, Hermann Hesse
