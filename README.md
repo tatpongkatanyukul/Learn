@@ -33,6 +33,7 @@ Computer Generated Imagery, etc.)
 
 ### 2020
    * A Tale of Two Cities, Charles Dickens
+   * The Alchemist, Paulo Coelho
    * Jonathan Livingston Seagull, Richard Bach
 
 ## Have Read
