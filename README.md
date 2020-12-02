@@ -44,6 +44,7 @@ Computer Generated Imagery, etc.)
    * อ พรหม ชวนม่วนชื่น
    * หนุ่มเมืองจันทร์ ความสุข ณ จุดที่ยืนอยู่
    * Eckhart Tolle's The Power of Now (Done Dec 1st, 2020)
+      * key concepts: Surrender to what is. Be here and now.
 
 
 ## Reading
