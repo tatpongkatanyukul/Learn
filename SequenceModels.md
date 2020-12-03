@@ -210,3 +210,7 @@ Select the most likely sequence
     * Jane is visiting Africa in September.
     * Jane is going to be visiting Africa in September.
     * Perhaps, P(Jane is going|X) > P(Jane is visiting|X).
+    
+Attention model
+  * Bahdanau et al. 2014. Neural machine translation by jointly learning to align and translate.
+  * Xu et al. 2015. Show, attend and tell: Neural image caption generation with visual attention. 
