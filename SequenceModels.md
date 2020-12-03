@@ -199,3 +199,4 @@ In practice, we use a sifting operation to get the embedding rather than matrix 
 		 	* Mao et al. 2014. Deep captioning with multimodal recurrent neural network
 			* Vinyals et al. 2014. Show and tell: Neural image caption generator
 			* Karpathy and Fei Fei, 2015. Deep visual-semantic alignments for generating image descriptions
+			* Image caption, e.g., CNN -> feature -> RNN generates a caption. (See Mao et al. 2014)
