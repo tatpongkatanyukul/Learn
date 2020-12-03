@@ -202,6 +202,7 @@ Image captioning
   * Karpathy and Fei Fei, 2015. Deep visual-semantic alignments for generating image descriptions
   * Image caption, e.g., CNN -> feature -> RNN generates a caption. (See Mao et al. 2014)
 
+Select the most likely sequence
   * MT as conditional probability: P(y(1), y(2), ..., y(Ty)| X)
   * arg max_{y(1),...,y(Ty)} P(y(1), y(2), ..., y(Ty)| X)
   * e.g., **Beam search** to do the optimization
