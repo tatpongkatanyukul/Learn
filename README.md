@@ -59,3 +59,10 @@ Computer Generated Imagery, etc.)
 ## Sabbatical leave
    * learned quantum mechanics, drug discoveries, CNN, GAN, RNN
       * I have achieved what I had planned for.
+      
+      
+## Textbooks (bought in 2019)
+   * Lane et al., Natural Language Processing. Manning Publications 2019.
+      * https://www.manning.com/freebook
+   * Foster, Generative Deep Learning. O'Reilly 2019.
+      * https://github.com/davidADSP/GDL_code
