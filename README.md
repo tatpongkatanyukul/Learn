@@ -66,3 +66,5 @@ Computer Generated Imagery, etc.)
       * https://www.manning.com/freebook
    * Foster, Generative Deep Learning. O'Reilly 2019.
       * https://github.com/davidADSP/GDL_code
+   * Natural Language Processing
+   * Design Pattern 
