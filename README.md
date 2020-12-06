@@ -35,6 +35,7 @@ Computer Generated Imagery, etc.)
    * A Tale of Two Cities, Charles Dickens
    * The Alchemist, Paulo Coelho
    * Jonathan Livingston Seagull, Richard Bach
+   * Les Misérables, Victor Hugo   
 
 ## Have Read
 
@@ -53,7 +54,6 @@ Computer Generated Imagery, etc.)
    * Ajahn Brahm's The Art of Disappearing
 
 ## Want to read
-   * Les Misérables, Victor Hugo
    * Siddhartha, Hermann Hesse
 
 ## Sabbatical leave
@@ -67,4 +67,4 @@ Computer Generated Imagery, etc.)
    * Foster, Generative Deep Learning. O'Reilly 2019.
       * https://github.com/davidADSP/GDL_code
    * Natural Language Processing
-   * Design Pattern 
+   * Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, Design Patterns. 	Addison-Wesley 1994. 
