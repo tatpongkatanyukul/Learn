@@ -42,6 +42,12 @@ Review
   * it is miswanting, because of our annoying features of the mind
   * We can use the intentionally strategy to overcome it.
   * What we should want are **kindness**, **social connection**, **time affluence**, **mind control**, **healthy practices**
+  * 2 strategies: situation support and goal setting
   
+Homework
+  * putting these strategies into practice.
     
-    
+Final rewirement challenge
+  * pick a rewirement for 4 weeks
+  * reflect on your progress
+  * assess your happiness
