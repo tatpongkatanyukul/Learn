@@ -36,3 +36,12 @@ WOOP:
 Q & A
   * What is the best kind of meditation?
     * All kinds seem to do a lot of benefits, as long as it shuts off the mind wandering.
+    
+Review
+  * These are things that we think that they will make us happy: good job, lots of money, awesome stuff, true love, the perfect body, and the perfect grades.
+  * it is miswanting, because of our annoying features of the mind
+  * We can use the intentionally strategy to overcome it.
+  * What we should want are **kindness**, **social connection**, **time affluence**, **mind control**, **healthy practices**
+  
+    
+    
