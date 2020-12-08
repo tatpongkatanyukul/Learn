@@ -23,8 +23,11 @@ Two strategies
     
 WOOP:
   * think about your **WISH**
+    * What is the most important wish?
   * the best **OUTCOME**
+    * What is the best possible outcome if I got the wish?
   * potential **OBSTACLES**
+    * What is it **me** that holds me back?
   * your if/then **PLAN**
    
       
