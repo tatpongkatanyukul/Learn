@@ -29,6 +29,6 @@ WOOP:
   * potential **OBSTACLES**
     * What is it **me** that holds me back?
   * your if/then **PLAN**
-   
+  * Contemplate WOOP 5 min everyday.
       
     
