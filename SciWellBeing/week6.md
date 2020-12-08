@@ -51,3 +51,13 @@ Final rewirement challenge
   * pick a rewirement for 4 weeks
   * reflect on your progress
   * assess your happiness
+
+Rewirement:
+  * Signature strength: using your top character strengths in new ways
+  * savoring: taking time to savor the things you enjoy
+  * gratitude: (list and/or letter) - expressing gratitude for the people and things in your life
+  * kindness: increasing your acts of kindness
+  * social connection: making connections with strangers and acquintances along with scheduling time for the people in your life
+  * exercise: increasing your physical activity to at leasst 30 minutes a few times a week
+  * sleep: making sure you sleep at least 7 hours a night several times a week
+  * meditation: meditating for 5-10 minutes if your are a beginner or increasing your time in meditation if you already meditate regularly
