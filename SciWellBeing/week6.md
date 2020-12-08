@@ -33,4 +33,6 @@ WOOP:
   * Contemplate WOOP 5 min everyday.
   * The key is to **get involved**
       
-    
+Q & A
+  * What is the best kind of meditation?
+    * All kinds seem to do a lot of benefits, as long as it shuts off the mind wandering.
