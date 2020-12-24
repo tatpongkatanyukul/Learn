@@ -12,6 +12,10 @@ Computer Generated Imagery, etc.)
 
 ---
 
+## Learning
+* Memristor
+  * [Finding the Missing Memristor - R. Stanley Williams](https://www.youtube.com/watch?v=bKGhvKyjgLY)
+
 ## Coursera
 
    * [The Science of Well-Being 2020](https://github.com/tatpongkatanyukul/Learn/blob/main/ScienceOfWellBeing.md)
