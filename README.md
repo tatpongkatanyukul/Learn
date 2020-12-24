@@ -15,6 +15,7 @@ Computer Generated Imagery, etc.)
 ## Learning
 * Memristor
   * [Finding the Missing Memristor - R. Stanley Williams](https://www.youtube.com/watch?v=bKGhvKyjgLY)
+  * [Strukov et al., The missing memristor found. Nature 453. May 2008](https://web.ece.ucsb.edu/~strukov/papers/2008/Nature2008.pdf)
 
 ## Coursera
 
