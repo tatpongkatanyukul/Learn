@@ -10,3 +10,7 @@
       * https://pureinfotech.com/install-windows-subsystem-linux-2-windows-10/
         * download [wsl_update_x64.msi](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
         * run wsl_update_x64.msi, but **FAIL!!!** (... ends prematurely because of errors ...)
+          * first, it did not work, perhaps because windows installer was busy with the update patches sneakingly downloaded by the windows.
+          * after rebooting and letting the windows update to finish, it works!
+        * run **PowerShell** as administrator
+        * type "wsl --set-default-version 2"
