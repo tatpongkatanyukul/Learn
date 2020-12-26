@@ -22,15 +22,21 @@ Fix the problem
   * run command
     * start a container
     * run and exit immediately
-    * docker run -d <image> # detach mode/background mode
-    * docker attach <docker id> # attach mode/get the backgroud docker to foreground
+    * `docker run -d <image>` # detach mode/background mode
+    * `docker attach <docker id>` # attach mode/get the backgroud docker to foreground
+    * run does not take host input. If we want a host input, we have to map a host input to a docker container.
+      * `docker run -i <image>` # interactive mode
+      * `docker run -it <image>` # interactive mode + sudo terminal
+    * `docker run -p 80:5000 <image>` # map port 80 for port 5000   
+    * `docker run -v /external-data-path:/contain-path <image>` # map external path to container 
+    * `docker logs <image>` # ???
   * ps: list containers
-    * docker ps -a
+    * `docker ps -a`
   * stop: stop a container
-    * docker stop python_image
+    * `docker stop python_image`
   * rm: remove the image
   * docker images
-  * remove images: docker rmi <image>
-  * docker pull <image>
+  * remove images: `docker rmi <image>`
+  * `docker pull <image>`
     * just pull the image, but not run the command
   * exec: execute a command on a running container
