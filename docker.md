@@ -30,6 +30,7 @@ Fix the problem
     * `docker run -p 80:5000 <image>` # map port 80 for port 5000   
     * `docker run -v /external-data-path:/contain-path <image>` # map external path to container 
     * `docker logs <image>` # ???
+    * `docker run <image> [command]`
   * ps: list containers
     * `docker ps -a`
   * stop: stop a container
@@ -57,6 +58,15 @@ RUN pip install flask-mysql
 COPY . /opt/source-code
 
 ENTRYPOINT FLASK_APP=/opt/source-code/app.py flask run
+
 ```
 
 ```docker build Dockerfile -t <image-app>```
+
+
+Dockerfile 2
+```
+FROM Ubuntu
+
+CMD ["sleep", "5"]
+```
