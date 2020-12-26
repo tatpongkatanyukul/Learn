@@ -64,9 +64,22 @@ ENTRYPOINT FLASK_APP=/opt/source-code/app.py flask run
 ```docker build Dockerfile -t <image-app>```
 
 
-Dockerfile 2
+Dockerfile 2 is equivalent to ```docker run ubuntu sleep 5```
 ```
 FROM Ubuntu
 
 CMD ["sleep", "5"]
 ```
+
+Dockerfile 3 is equivalent to ```docker run ubuntu sleep [default 5]```
+```
+FROM Ubuntu
+
+ENTRYPOINT ["sleep"]
+
+CMD ["5"]
+```
+
+Default networks
+
+```docker run Ubuntu --network=host```
