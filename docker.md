@@ -87,7 +87,7 @@ Default networks
 
 ---
 
-Docker on Autolab
+# Docker on Autolab
 
 ```
 docker run -it python35_image bash
