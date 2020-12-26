@@ -98,3 +98,6 @@ docker run -it python35_image bash
 python3.5 myprog.py
 ```
 
+```
+docker run -v /home/tatpong/sandbox:/home/sandbox -it p35:201226 bash
+```
