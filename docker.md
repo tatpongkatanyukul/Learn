@@ -14,3 +14,5 @@
           * after rebooting and letting the windows update to finish, it works!
         * run **PowerShell** as administrator
         * type "wsl --set-default-version 2"
+      
+    * after installing WSL 2, uninstall the docker and reinstall it again.
