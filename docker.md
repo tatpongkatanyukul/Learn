@@ -16,3 +16,5 @@ Fix the problem
     * run **PowerShell** as administrator
     * type "wsl --set-default-version 2"
   * after installing WSL 2, uninstall the docker and reinstall it again.
+
+[Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
