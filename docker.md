@@ -83,3 +83,14 @@ CMD ["5"]
 Default networks
 
 ```docker run Ubuntu --network=host```
+
+
+---
+
+Docker on Autolab
+
+```
+docker run -it python35_image bash
+python3.5 myprog.py
+```
+
