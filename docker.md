@@ -19,3 +19,18 @@ Fix the problem
 
 [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
   * [Public docker images at Docker Hub](https://hub.docker.com/)
+  * run command
+    * start a container
+    * run and exit immediately
+    * docker run -d <image> # detach mode/background mode
+    * docker attach <docker id> # attach mode/get the backgroud docker to foreground
+  * ps: list containers
+    * docker ps -a
+  * stop: stop a container
+    * docker stop python_image
+  * rm: remove the image
+  * docker images
+  * remove images: docker rmi <image>
+  * docker pull <image>
+    * just pull the image, but not run the command
+  * exec: execute a command on a running container
