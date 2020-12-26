@@ -84,6 +84,10 @@ Default networks
 
 ```docker run Ubuntu --network=host```
 
+Clone a container
+
+```docker commit --message="Snapshot of my container" <my_container|container id> my_container_snapshot:yymmdd```
+  * see container id from ```docker ps -a```
 
 ---
 
