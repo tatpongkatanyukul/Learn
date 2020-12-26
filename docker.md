@@ -40,3 +40,23 @@ Fix the problem
   * `docker pull <image>`
     * just pull the image, but not run the command
   * exec: execute a command on a running container
+
+
+How to create my own image?
+
+Dockerfile
+```
+FROM Ubuntu
+
+RUN apt-get update
+RUN apt-get install python
+
+RUN pip install flask
+RUN pip install flask-mysql
+
+COPY . /opt/source-code
+
+ENTRYPOINT FLASK_APP=/opt/source-code/app.py flask run
+```
+
+```docker build Dockerfile -t <image-app>```
