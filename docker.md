@@ -29,7 +29,7 @@ Fix the problem
       * `docker run -it <image>` # interactive mode + sudo terminal
     * `docker run -p 80:5000 <image>` # map port 80 for port 5000   
     * `docker run -v /external-data-path:/contain-path <image>` # map external path to container 
-      * e.g., ```docker run -v /home/tatpong/sandbox:/sandbox -it p35:201226 bash```
+      * e.g., ```docker run -v /home/tatpong/sandbox:/home/sandbox -it p35:201226 bash```
     * `docker logs <image>` # ???
     * `docker run <image> [command]`
   * ps: list containers
