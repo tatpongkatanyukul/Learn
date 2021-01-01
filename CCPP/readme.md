@@ -23,6 +23,14 @@ Learn more
 
 ## Create C++ Library
 
+Steps is identical to C, but compile with ```g++```
+```
+g++ -c -g <lib.cpp>
+g++ -c -g <main.cpp>
+g++ -o <main.exe> <main.o> <lib.o>
+main.exe
+```
+
 See 
   * [microsoft: walkthrough creating C++ static library](https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-static-library-cpp?view=msvc-160)
   * [microsoft: walkthrough creating C++ dynamic link library](https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?redirectedfrom=MSDN&view=msvc-160)
