@@ -18,7 +18,7 @@ See [example](https://github.com/tatpongkatanyukul/Learn/blob/main/CCPP/clib.rar
 
 Learn more
   * [Create library in details](https://renenyffenegger.ch/notes/development/languages/C-C-plus-plus/GCC/create-libraries/index)
-    * [its pdf]() (just in case)
+    * [its pdf](https://github.com/tatpongkatanyukul/Learn/blob/main/CCPP/create_library.pdf) (just in case)
 
 
 ## Create C++ Library
