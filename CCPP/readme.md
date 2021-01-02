@@ -31,6 +31,8 @@ g++ -o <main.exe> <main.o> <lib.o>
 main.exe
 ```
 
+See [example of C++ static library](https://github.com/tatpongkatanyukul/Learn/blob/main/CCPP/cpplib1.tar)
+
 See 
   * [microsoft: walkthrough creating C++ static library](https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-static-library-cpp?view=msvc-160)
   * [microsoft: walkthrough creating C++ dynamic link library](https://docs.microsoft.com/en-us/cpp/build/walkthrough-creating-and-using-a-dynamic-link-library-cpp?redirectedfrom=MSDN&view=msvc-160)
