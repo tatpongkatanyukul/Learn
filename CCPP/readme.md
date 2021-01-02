@@ -1,5 +1,17 @@
 # C/C++
 
+## Raw and Rough (dos command: edit, compile, and run)
+
+Type out these commands on the terminal
+```
+echo #include ^<iostream^> > raw.cpp
+echo int main(void){ >> raw.cpp
+echo std^:^:cout ^<^< "It's raw!";} >> raw.cpp
+type raw.cpp
+g++ raw.cpp -o raw.exe
+raw
+```
+
 ## Create C Library
 
 Steps
