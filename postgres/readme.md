@@ -5,3 +5,5 @@ Location (on my laptop)
 
 Start a postgreSQL terminal
 ```psql -U tatpong```
+Dang! I cannot remember the password
+--> uninstall PostgreSQL (and keep it that way, until when I really need it)
