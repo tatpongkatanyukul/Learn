@@ -315,7 +315,7 @@ This graphic shows the negative implications of poor sleep after one night and p
       	* 10. Prodigies (some people precociously have it)
       	* 11. Selective absense (some people don't have it)
       	* 12. Institutionalized (Society values it)      
-  
+    * Job that gives you a ***flow***
 
 ## Week 6
 [Putting Strategies into Practices](https://github.com/tatpongkatanyukul/Learn/blob/main/SciWellBeing/week6.md)
