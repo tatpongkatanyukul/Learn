@@ -302,6 +302,19 @@ This graphic shows the negative implications of poor sleep after one night and p
   * "Good" job --> what factors should we want from a job
     * Job that lets you use your signature strengths (Martin Seligman's Authentic Happiness)
       * Character strengths = a desire, a disposition to act, or a feeling that involves the exercise of judgement that leads to a recognizable human excellence or instance of human flourishing
+      * Character strengths are:
+      	* 1. Ubiquitous (widely recognized across cultures)
+      	* 2. Fulfilling (leads to fulfillment, satisfaction)
+      	* 3. Morally-valued
+      	* 4. Not able to diminish others
+      	* 5. The opposite of a negative trait
+      	* 6. Trait-like (stable individual difference)
+      	* 7. Measurable
+      	* 8. Distinctive (not redundant w/ other strengths)
+      	* 9. Paragons (some people really have it)
+      	* 10. Prodigies (some people precociously have it)
+      	* 11. Selective absense (some people don't have it)
+      	* 12. Institutionalized (Society values it)      
   
 
 ## Week 6
