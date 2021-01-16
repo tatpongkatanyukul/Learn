@@ -300,6 +300,8 @@ This graphic shows the negative implications of poor sleep after one night and p
   
 #### want the right parts of what we already want
   * "Good" job --> what factors should we want from a job
+    * Job that lets you use your signature strengths (Martin Seligman's Authentic Happiness)
+      * Character strengths = a desire, a disposition to act, or a feeling that involves the exercise of judgement that leads to a recognizable human excellence or instance of human flourishing
   
 
 ## Week 6
