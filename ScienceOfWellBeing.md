@@ -276,7 +276,34 @@ This paper tells us sleeping boosts cognitive performance
 Huffington Post. Lose Sleep, Lose Your Mind and Health
 This graphic shows the negative implications of poor sleep after one night and prolonged over time
 
+### Miswanting
+  * Good job
+  * Lots of money
+  * Awesome stuff
+  * True love
+  * The perfect body
+  * The perfect grades
+
+### Causes of miswanting
+  * biases in our mind
+  * hedonic adaptation
+  * our minds' strongest intuitions are often totally wrong
+  
+### Strategies
+  * thwart the hedonic adaptation
+  * reset the reference point 
+    * reframe things
+  
+### Better wanting
+  * want the right parts of what we already want
+  * want the stuffs that we don't want yet
+  
+#### want the right parts of what we already want
+  * "Good" job --> what factors should we want from a job
+  
 
 ## Week 6
 [Putting Strategies into Practices](https://github.com/tatpongkatanyukul/Learn/blob/main/SciWellBeing/week6.md)
+
+
 
