@@ -327,6 +327,9 @@ modern culture may instill misconception about happiness. This misconception may
 
 > Then, Laurie summarizes the better wanting that should make us happier.  Those wantings are (1) wanting the right parts of what we already want and (2) wanting the right things that most overlook. The right parts of things are, for example, instead of a fancy job, we should want a ***job that resonates to our character strengths and gives us flow***; and, instead of good grades, we should want to learn ***valuable lessons*** and have a ***growth mindset***.
 
+> And for others, I guess: financially healthy (for lots of money), 
+good relationship (for true love), physically healthy (for perfect body), and enjoyable activities (for awesome stuff)
+
 > What are the right things that most overlook that Laurie summarizes?
 > They are ***kindness***, ***social connection***, ***time affluent***, ***being here and now***, ***healthy practices*** (eat healthy food, exercises, enough sleep, meditation).
 
