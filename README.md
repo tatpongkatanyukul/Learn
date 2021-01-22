@@ -19,6 +19,8 @@ Computer Generated Imagery, etc.)
 * [Docker](https://github.com/tatpongkatanyukul/Learn/blob/main/docker.md)
 * [C/C++](https://github.com/tatpongkatanyukul/Learn/tree/main/CCPP)
 * [PostgreSQL](https://github.com/tatpongkatanyukul/Learn/tree/main/postgres)
+* Python - Spice
+  * [lcapy](https://pypi.org/project/lcapy/)
 
 ## Coursera
 
