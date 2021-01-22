@@ -24,8 +24,13 @@ Computer Generated Imagery, etc.)
 
    * [The Science of Well-Being 2020](https://github.com/tatpongkatanyukul/Learn/blob/main/ScienceOfWellBeing.md)
    * [Sequence Models](https://github.com/tatpongkatanyukul/Learn/blob/main/SequenceModels.md)
-   * [C for Everyone](https://github.com/tatpongkatanyukul/Learn/blob/main/CforEveryone/FirstProgram.md)
-      * [write and run C online](https://www.onlinegdb.com/online_c_compiler)
+   * [Supply Chain Logistics]()
+   * [Quantum Computing. Less Formulas - More Understanding]()
+   * [Microwave engineering and antennas]()
+   
+### Unenrolled
+   * [C for Everyone](https://github.com/tatpongkatanyukul/Learn/blob/main/CforEveryone/FirstProgram.md) (I unenrolled it on Jan 21, 2021. Need to simplify my life!)
+      * [write and run C online](https://www.onlinegdb.com/online_c_compiler) 
 
 ## EdX
 
