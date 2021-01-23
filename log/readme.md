@@ -27,3 +27,6 @@ from http://net-informations.com/q/mis/wmic.html#:~:text=WMIC%20is%20the%20abbre
     * ```wmic COMPUTERSYSTEM get TotalPhysicalMemory```
     * ```wmic wmic process get workingsetsize,commandline```
     * ```wmic partition get name, size, type```
+    * ```wmic service list brief```
+    * ```wmic process list brief```
+    * see https://docs.microsoft.com/en-us/windows/win32/wmisdk/wmic?redirectedfrom=MSDN
