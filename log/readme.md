@@ -30,3 +30,7 @@ from http://net-informations.com/q/mis/wmic.html#:~:text=WMIC%20is%20the%20abbre
     * ```wmic service list brief```
     * ```wmic process list brief```
     * see https://docs.microsoft.com/en-us/windows/win32/wmisdk/wmic?redirectedfrom=MSDN
+
+### Python docx library
+
+See [example code](https://github.com/tatpongkatanyukul/Learn/blob/main/CCPP/readtags02a.py)
