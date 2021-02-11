@@ -93,6 +93,13 @@ Clone a container
 
 ---
 
+## When building Docker fails, Docker may collapse.
+
+To fix: https://docs.docker.com/docker-for-windows/install/
+  * install linux on windows
+  * switch daemon: ```C:\"Program Files"\Docker\Docker\DockerCli.exe -SwitchDaemon```
+
+
 # Docker on Autolab
 
 ```
