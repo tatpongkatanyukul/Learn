@@ -32,6 +32,7 @@ Fix the problem
       * e.g., ```docker run -v /home/tatpong/sandbox:/home/sandbox -it p35:201226 bash```
     * `docker logs <image>` # ???
     * `docker run <image> [command]`
+    
   * ps: list containers
     * `docker ps -a`
   * stop: stop a container
@@ -102,3 +103,14 @@ python3.5 myprog.py
 ```
 docker run -v /home/tatpong/sandbox:/home/sandbox -it p35:201226 bash
 ```
+
+# Docker on Mac
+
+## Tutorial
+
+Build
+```
+docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+docker cp repo:/git/getting-started/ .
+```
+
