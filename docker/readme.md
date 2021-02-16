@@ -25,3 +25,10 @@ Result:
 Sending build context to Docker daemon  176.1kB
 Error response from daemon: dial unix docker.raw.sock: connect: connection refused
 ```
+
+Tried:
+```
+docker build -t my_image0 .
+```
+
+Result: this seems to work!!!
