@@ -17,6 +17,8 @@ docker ps
 
 ## Run a container from an image
 ```
-
+docker run my_image0
 ```
+
+Note: files and directories of a docker container are different from the ones of the host!!!
 
