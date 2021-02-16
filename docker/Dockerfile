@@ -1,6 +1,6 @@
 FROM python:3
 
-WORKDIR /ship1
+WORKDIR ./ship1
 
 COPY requirements.txt ./
 
