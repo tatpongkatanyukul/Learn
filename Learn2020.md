@@ -23,9 +23,6 @@ Computer Generated Imagery, etc.)
    * [C for Everyone](https://github.com/tatpongkatanyukul/Learn/blob/main/CforEveryone/FirstProgram.md) (I unenrolled it on Jan 21, 2021. Need to simplify my life!)
       * [write and run C online](https://www.onlinegdb.com/online_c_compiler) 
 
-## Online
-
-   * [Collaborative Data Science for Healthcare](https://github.com/tatpongkatanyukul/Collaborative)
 
 ## Attend
 
