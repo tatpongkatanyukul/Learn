@@ -30,4 +30,4 @@ docker run -v /home/tatpong/sandbox:/home/sandbox -it p35:201226 bash
 where
   * Option ```-v``` is to bind a local ```/home/tatpong/sandbox``` to container ```/home/sandbox```
   * Option -it ```-it``` is to have it in the interactive mode
-  * Token ```bash``` is the command to run
+  * Token ```bash``` is the command to run. In this case, it is a bash shell.
