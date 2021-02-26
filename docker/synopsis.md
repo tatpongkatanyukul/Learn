@@ -38,3 +38,13 @@ where
 ```
 docker save imgpy3np1 > imgpy3np1.tar
 ```
+
+## Detele docker image
+```
+docker image rm --force imgpy3np1
+```
+
+## Load docker image from a tar file
+```
+docker load --input imgpy3np1.tar
+```
