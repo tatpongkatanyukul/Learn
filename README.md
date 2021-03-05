@@ -28,12 +28,12 @@
 
   * Antenna
     * Clear: we do not have to have a current flowing through to have an antenna radiate. (We just need an electric field.)
-      * 
-    * Still mystery: they talk about standing wave voltage at different point about a transmission line. I cannot put unify this with the circuit theory and wonder if it is a real physical thing or if it is just a convenient perception.   
+      * see Maxwell's equations (esp., the 4th one)
+    * Mystery solved!!!: they talk about standing wave voltage at different point about a transmission line. I cannot put unify this with the circuit theory and wonder if it is a real physical thing or if it is just a convenient perception.   
       * It is a physical  thing. See [Applied Electromagnetic Field Theory](https://scholar.valpo.edu/engineering_oer/1/) by Doug Tougaw (and video lecture 30: [Applied Electromagnetic Field Theory](https://www.youtube.com/watch?v=o1A74NCuF-g)) 
       * The explanation is that 
         * (1) the voltage source has to AC 
-        * (2) when it switches polarity, it forces charges to move
+        * (2) when it switches polarity, it forces charges to move (when charges moves, there is a current!)
         * (3) the wire is not infinitestimally small 
 
 ## Not a complete mystery, but I have no clue
