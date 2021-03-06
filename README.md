@@ -15,6 +15,7 @@
   * Therefore, RF wave can be broadcasted from an antenna with open circut (no current flowing, i.e., electric field alone can cause a magnetic field, then change in B will cause E and so on)
   * Faraday's and Lenz's equation: v(t) = - d \phi/ d t. The minus sign is from Lenz: the direction of the (emf) voltage has to produce a current opposing a change in magnetic flux. (Solve the mystery of "discrepancy" between LCA and Physics)
   * Load and No-Load Operation of a [Transformer](https://github.com/tatpongkatanyukul/Learn/blob/main/transformer.md)
+    * [EzEd's Single Phase Transformer Part I - Construction & Working - No-Load & On-Load](https://www.youtube.com/watch?v=ai3eriqcSYc)
     * https://www.ato.com/load-and-no-load-operation-of-transformer
     * https://www.youtube.com/watch?v=Vv2vxtqt6DQ
 
