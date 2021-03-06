@@ -58,6 +58,7 @@
 
 ## Interesting (may be handy one day)
 * Automate process through GUI
+  * [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) 
   * [UI Autamation](https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/ui-automation-overview?redirectedfrom=MSDN)
   * [GUI Testing Tools](https://en.wikipedia.org/wiki/Comparison_of_GUI_testing_tools)
   * [MS Powershell](https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/december/test-run-ui-automation-with-windows-powershell)
