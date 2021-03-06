@@ -57,8 +57,10 @@
   * [lcapy](https://pypi.org/project/lcapy/)
 
 ## Interesting (may be handy one day)
-* [UI Autamation](https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/ui-automation-overview?redirectedfrom=MSDN)
-* [GUI Testing Tools](https://en.wikipedia.org/wiki/Comparison_of_GUI_testing_tools)
+* Automate process through GUI
+  * [UI Autamation](https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/ui-automation-overview?redirectedfrom=MSDN)
+  * [GUI Testing Tools](https://en.wikipedia.org/wiki/Comparison_of_GUI_testing_tools)
+  * [MS Powershell](https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/december/test-run-ui-automation-with-windows-powershell)
 
 ## Coursera
 
