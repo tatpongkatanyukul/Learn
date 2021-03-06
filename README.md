@@ -56,6 +56,9 @@
 * Python - Spice
   * [lcapy](https://pypi.org/project/lcapy/)
 
+## Interesting (may be handy one day)
+* [UI Autamation](https://docs.microsoft.com/en-us/dotnet/framework/ui-automation/ui-automation-overview?redirectedfrom=MSDN)
+
 ## Coursera
 
    * [Sequence Models](https://github.com/tatpongkatanyukul/Learn/blob/main/SequenceModels.md)
