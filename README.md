@@ -64,7 +64,7 @@
   * [MS Powershell](https://docs.microsoft.com/en-us/archive/msdn-magazine/2007/december/test-run-ui-automation-with-windows-powershell)
   * [Blockchain](https://cs251.stanford.edu/syllabus.html)
   * [Computational Biology](http://web.stanford.edu/class/cs279/index.html#handouts)
-  * [Multi-task learning](http://cs330.stanford.edu/)
+  * [Meta-learning](http://cs330.stanford.edu/) [vdo](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
 
 ## Coursera
 
