@@ -65,6 +65,7 @@
   * [Blockchain](https://cs251.stanford.edu/syllabus.html)
   * [Computational Biology](http://web.stanford.edu/class/cs279/index.html#handouts)
   * [Meta-learning](http://cs330.stanford.edu/) [vdo](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
+    * [Frontiers](http://cs330.stanford.edu/slides/cs330_frontiers_2020.pdf)
 
 ## Coursera
 
