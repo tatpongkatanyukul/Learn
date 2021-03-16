@@ -68,6 +68,7 @@
     * [Frontiers](http://cs330.stanford.edu/slides/cs330_frontiers_2020.pdf)
   * [Face recognition tools](https://pypi.org/project/face-recognition)
     * [Dockerfile](https://github.com/ageitgey/face_recognition/raw/master/Dockerfile)
+  * [Gym](https://gym.openai.com) RL environment
 
 ## Coursera
 
