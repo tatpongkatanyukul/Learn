@@ -67,6 +67,7 @@
   * [Meta-learning](http://cs330.stanford.edu/) [vdo](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5)
     * [Frontiers](http://cs330.stanford.edu/slides/cs330_frontiers_2020.pdf)
   * [Face recognition tools](https://pypi.org/project/face-recognition)
+    * [Dockerfile](https://github.com/ageitgey/face_recognition/raw/master/Dockerfile)
 
 ## Coursera
 
