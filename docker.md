@@ -113,6 +113,8 @@ docker run -v /home/tatpong/sandbox:/home/sandbox -it p35:201226 bash
 
 # Docker on Mac
 
+See [Docker desktop for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
+
 ## Tutorial
 
 Build
