@@ -48,3 +48,13 @@ docker image rm --force imgpy3np1
 ```
 docker load --input imgpy3np1.tar
 ```
+
+## Create a docker image
+```
+...
+```
+
+## Create a docker image from a container
+
+(src: https://www.scalyr.com/blog/create-docker-image/)
+
