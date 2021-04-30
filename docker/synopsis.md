@@ -39,7 +39,7 @@ where
 docker save imgpy3np1 > imgpy3np1.tar
 ```
 
-## Detele docker image
+## Delete docker image
 ```
 docker image rm --force imgpy3np1
 ```
