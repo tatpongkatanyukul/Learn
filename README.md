@@ -29,11 +29,19 @@
     * Clear: DNA has all information about genes (more than 20,000 genes) and histones play a role of expressing each genes. DNA is a recipe to make protein and protein is a machine for biological physicality.
     * Still mysteries:
       * (1) How do liver cells know that they have to produce cholesterrol and other stuffs, but skin cells do not? 
-        * internal signals, e.g., ... (source?)
-        * external signal, e.g., thermal ... 
+        * Perhaps, the answer lies in cues, such as **transcription factors**
+          * E.g., Transcription factors are to turn "on" gene. In a zygote---a fertilized egg---, there are transcription, but their location may be more concentrated on one side. Then, when cell gets divided into 2 cells: one of them may have more transcription factors than the other. This is called "Asymmetric Segmentation of Cellular Determinants". Then, cell with more transcription factors can be multiplied and eventually turn on to be some kind of specialized cells, while cells with less transcription factors may end up being other kind of specialized cells.
+          * Cues can be internal (e.g., transcription factors) or external.
+          * External cues, e.g., induction (induction signaling): cells in group 1 may send a signal to cells in group 2.
+            * This mechanism may allow cells to communicate what kinds of cells are plenty and which kinds are in need and orchestrate the cell specialization so that they know what types they should be specialized to and how many.
       * (2) How do cells at our finger tips know they need to stop other we keep having too long finger?
+        * See cellular specialization (differentiation), e.g., induction signaling
+          * Induction signaling is a kind peer pressure
+            * It can be through **diffusion**: higher gradient diffuses to lower gradient
+            * Through **direct contact**: two cells are in contact and have binding
+            * Through **connexon protein**: gap junction
       * (3) How can we influence the mutation? If ancestor hoppers stare at leaves often enough, do that cause the mutation so that their descendants really look similar to leaves?
-      * Perhaps, genetics or cell differentiation course
+        * Perhaps, genetics or cell differentiation course
 
   * Antenna
     * Clear: we do not have to have a current flowing through to have an antenna radiate. (We just need an electric field.)
