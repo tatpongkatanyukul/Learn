@@ -29,6 +29,8 @@
     * Clear: DNA has all information about genes (more than 20,000 genes) and histones play a role of expressing each genes. DNA is a recipe to make protein and protein is a machine for biological physicality.
     * Still mysteries:
       * (1) How do liver cells know that they have to produce cholesterrol and other stuffs, but skin cells do not? 
+        * internal signals, e.g., ... (source?)
+        * external signal, e.g., thermal ... 
       * (2) How do cells at our finger tips know they need to stop other we keep having too long finger?
       * (3) How can we influence the mutation? If ancestor hoppers stare at leaves often enough, do that cause the mutation so that their descendants really look similar to leaves?
       * Perhaps, genetics or cell differentiation course
@@ -37,7 +39,7 @@
     * Clear: we do not have to have a current flowing through to have an antenna radiate. (We just need an electric field.)
       * see Maxwell's equations (esp., the 4th one): curl B depends on both current and change in electric field.
         * But, curl E depends only on negative change in magnetic field. (the 3rd eq.)  
-    * Mystery solved!!!: they talk about standing wave voltage at different point about a transmission line. I cannot put unify this with the circuit theory and wonder if it is a real physical thing or if it is just a convenient perception.   
+    * Mystery solved!!!: they talk about standing wave voltage at different point about a transmission line. I cannot unify this with the circuit theory and wonder if it is a real physical thing or if it is just a convenient perception.   
       * It is a physical  thing. See [Applied Electromagnetic Field Theory](https://scholar.valpo.edu/engineering_oer/1/) by Doug Tougaw (and video lecture 30: [Applied Electromagnetic Field Theory](https://www.youtube.com/watch?v=o1A74NCuF-g)) (Tougaw, Doug, "Applied Electromagnetic Field Theory" (2018). Engineering Curricular Materials. 1. https://scholar.valpo.edu/engineering_oer/1) 
       * The explanation is that 
         * (1) the voltage source has to AC 
@@ -90,9 +92,14 @@
 
 ## Have read
   * อ่านทะลุความคิด ด้วยจิตวิทยาแห่งการโกง แปลจาก The (honest) truth about dishonesty, Dan Ariely โดย พรเลิศ อิฐฐ์ และวิโรจน์ ภัทรทีปกร
+  * นิ้วกลม สิ่งสำคัญของหัวใจ (บทสนทนากับ ประมวล เพ็งจันทร์)/ จบ 3 พค 64
+    * "ศรัทธาในชีวิต ลดทอนตัวตน จงเป็นความรักเสมอ"
+    * "คุณอย่ามีคำถามเลยว่าทำไมคุณถึงเป็นอย่างนี้ แต่คุณต้องรู้สึกให้ได้ว่าคุณก็เป็นอย่างนี้แหละ 
+แล้วเห็นคุณค่าของสิ่งที่เป็นอยู่ในปัจจุบัน ... **ขอให้พวกเราได้โปรดเห็นค่าของเวลาที่มีอยู่ ณ ปัจจุบัน 
+ว่าเราเกิดมาเพื่อจะเป็นอย่างนี้แหละ เกิดมาเพื่อจะพบคนตรงหน้านี้ เกิดมาเพื่อจะอยู่ในเหตุการณ์นี้ 
+เกิดมาเพื่อจะเป็นเหมือนกับทุก ๆ สิ่งที่เป็นอยู่ ณ ปัจจุบันนี้" 
 
 ## Reading
-   * นิ้วกลม สิ่งสำคัญของหัวใจ (บทสนทนากับ ประมวล เพ็งจันทร์)
    * Brian L. Weiss's Messages from The Masters
    * Ajahn Brahm's The Art of Disappearing
 
