@@ -40,7 +40,7 @@
             * It can be through **diffusion**: higher gradient diffuses to lower gradient
             * Through **direct contact**: two cells are in contact and have binding
             * Through **connexon protein**: gap junction
-      * (3) How can we influence the mutation? If ancestor hoppers stare at leaves often enough, do that cause the mutation so that their descendants really look similar to leaves?
+      * (3) How can we influence the mutation? E.g., giant leaf mantis: if ancestor hoppers stare at leaves often enough, do that cause the mutation so that their descendants really look similar to leaves?
         * Perhaps, genetics or cell differentiation course
 
   * Antenna
