@@ -42,6 +42,10 @@
             * Through **connexon protein**: gap junction
       * (3) How can we influence the mutation? E.g., giant leaf mantis: if ancestor hoppers stare at leaves often enough, do that cause the mutation so that their descendants really look similar to leaves?
         * Perhaps, genetics or cell differentiation course
+        * See NG article on [orchid mantis](https://www.nationalgeographic.com/animals/article/orchid-mantises-evolution-insects)
+           * [Gavin Svenson](https://www.cmnh.org/svenson) of the Cleveland Museum of Natural History 
+           * [Scientific Reports](https://www.nature.com/articles/srep37753)
+             * Svenson et al., Selection for predation, not female fecundity, explains sexual size dimorphism in the orchid mantises. Scientific Reports volume 6, Article number: 37753 (2016) 
 
   * Antenna
     * Clear: we do not have to have a current flowing through to have an antenna radiate. (We just need an electric field.)
