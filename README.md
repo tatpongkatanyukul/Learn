@@ -46,6 +46,9 @@
            * [Gavin Svenson](https://www.cmnh.org/svenson) of the Cleveland Museum of Natural History 
            * [Scientific Reports](https://www.nature.com/articles/srep37753)
              * Svenson et al., Selection for predation, not female fecundity, explains sexual size dimorphism in the orchid mantises. Scientific Reports volume 6, Article number: 37753 (2016) 
+        * Scientific American 2018: "a new study makes a remarkable connection between experience and the genetic diversity of the brain. It suggests that experience can change the DNA sequence of the genome contained in brain cells."
+          * Robert Martone on July 10, 2018. NEUROSCIENCE. Early Life Experience: It’s in Your DNA 
+
 
   * Antenna
     * Clear: we do not have to have a current flowing through to have an antenna radiate. (We just need an electric field.)
