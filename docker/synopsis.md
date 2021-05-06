@@ -32,6 +32,11 @@ where
   * Option -it ```-it``` is to have it in the interactive mode
   * Token ```bash``` is the command to run. In this case, it is a bash shell.
 
+```
+docker run --rm -v /home/tatpong/sandbox:/home/sandbox -it p35:201226 bash
+```
+where
+  * ```--rm``` to remove container after use (stop container)
 
 ## Save docker image to a tar file
 
