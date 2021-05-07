@@ -15,6 +15,11 @@ docker images
 docker ps
 ```
 
+or
+```
+docker ps -a
+```
+
 ## Run a container from an image
 ```
 docker run my_image0
