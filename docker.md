@@ -39,8 +39,8 @@ Fix the problem
     * `docker stop python_image`
   * rm: remove the image
     * Remove its containers first!
-      * docker rm <container_id> 
-      * docker rmi <image_id> 
+      * ```docker rm <container_id>``` 
+      * ```docker rmi <image_id>```
   * docker images
   * remove images: `docker rmi <image>`
   * `docker pull <image>`
