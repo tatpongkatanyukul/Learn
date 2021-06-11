@@ -72,6 +72,7 @@
 * [PostgreSQL](https://github.com/tatpongkatanyukul/Learn/tree/main/postgres)
 * Python - Spice
   * [lcapy](https://pypi.org/project/lcapy/)
+* [Durian]
 
 ## Interesting (may be handy one day)
 * Automate process through GUI
@@ -89,6 +90,7 @@
 
 ## Coursera
 
+   * [How plants feel]  
    * [Sequence Models](https://github.com/tatpongkatanyukul/Learn/blob/main/SequenceModels.md)
    * [Supply Chain Logistics](https://github.com/tatpongkatanyukul/Learn/blob/main/supplychainlogistics.md)
    * [Quantum Computing. Less Formulas - More Understanding](https://github.com/tatpongkatanyukul/Learn/blob/main/QuantumComputing.md)
@@ -128,3 +130,9 @@
       * https://github.com/davidADSP/GDL_code
    * Natural Language Processing
    * Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides, Design Patterns. 	Addison-Wesley 1994. 
+
+## Fun
+  * Parallax
+  * Hedy Lamarr and Frequency Hopping
+  * Kevin-Benson Cycle (Photosynthesis)
+  * Suzanne Simard's tree talk
