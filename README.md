@@ -72,7 +72,7 @@
 * [PostgreSQL](https://github.com/tatpongkatanyukul/Learn/tree/main/postgres)
 * Python - Spice
   * [lcapy](https://pypi.org/project/lcapy/)
-* [Durian]
+* [Durian], [Plant science], and [Orchard management]
 
 ## Interesting (may be handy one day)
 * Automate process through GUI
