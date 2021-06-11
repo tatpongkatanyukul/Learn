@@ -94,11 +94,14 @@
 
    * [Understanding Plants: what a plant knows](https://github.com/tatpongkatanyukul/Learn/blob/main/plant/understandingplant1.md)
    * [Sequence Models](https://github.com/tatpongkatanyukul/Learn/blob/main/SequenceModels.md)
+
+### Done
    * [Supply Chain Logistics](https://github.com/tatpongkatanyukul/Learn/blob/main/supplychainlogistics.md)
+
+### On hold
    * [Quantum Computing. Less Formulas - More Understanding](https://github.com/tatpongkatanyukul/Learn/blob/main/QuantumComputing.md)
    * [Microwave engineering and antennas](https://github.com/tatpongkatanyukul/Learn/blob/main/MicrowareEngineering.md)
    
-
 ## EdX
 
    * [Quantum Mechanics for Everyone](https://github.com/tatpongkatanyukul/Learn/blob/main/QuantumMech.md)
@@ -117,10 +120,11 @@
 แล้วเห็นคุณค่าของสิ่งที่เป็นอยู่ในปัจจุบัน ... **ขอให้พวกเราได้โปรดเห็นค่าของเวลาที่มีอยู่ ณ ปัจจุบัน 
 ว่าเราเกิดมาเพื่อจะเป็นอย่างนี้แหละ เกิดมาเพื่อจะพบคนตรงหน้านี้ เกิดมาเพื่อจะอยู่ในเหตุการณ์นี้ 
 เกิดมาเพื่อจะเป็นเหมือนกับทุก ๆ สิ่งที่เป็นอยู่ ณ ปัจจุบันนี้**" 
+  * Brian L. Weiss's Messages from The Masters
 
-## Reading
-   * Brian L. Weiss's Messages from The Masters
+## Reading 
    * Ajahn Brahm's The Art of Disappearing
+   * [การสร้างสวนทุเรียนมือใหม่ สู่มืออาชีพ](https://github.com/tatpongkatanyukul/petchnakornthai/blob/main/durian/%E0%B8%97%E0%B8%B8%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88.md)
 
 ## Want to read
    * Siddhartha, Hermann Hesse
