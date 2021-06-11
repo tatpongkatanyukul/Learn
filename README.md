@@ -64,7 +64,7 @@
 ## Not a complete mystery, but I have no clue
   * How to solve Maxwell equations
   * How to use (even a simplified version of) the Navier-Stokes
-
+  * Example of thermodynamics calculation
 
 ## Learning
 * [Docker](https://github.com/tatpongkatanyukul/Learn/blob/main/docker.md)
@@ -92,7 +92,7 @@
 
 ## Coursera
 
-   * [How plants feel]  
+   * [Understanding Plants: what a plant knows](https://github.com/tatpongkatanyukul/Learn/blob/main/plant/understandingplant1.md)
    * [Sequence Models](https://github.com/tatpongkatanyukul/Learn/blob/main/SequenceModels.md)
    * [Supply Chain Logistics](https://github.com/tatpongkatanyukul/Learn/blob/main/supplychainlogistics.md)
    * [Quantum Computing. Less Formulas - More Understanding](https://github.com/tatpongkatanyukul/Learn/blob/main/QuantumComputing.md)
