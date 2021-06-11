@@ -128,6 +128,6 @@
 ## Fun
   * [Parallax](https://github.com/tatpongkatanyukul/Adventures-of-CPG-in-The-World-of-Problem-Solving/blob/main/measure_sun_distance.md)
   * Hedy Lamarr and Frequency Hopping
-  * Kevin-Benson Cycle (Photosynthesis)
+  * [Calvin-Benson Cycle](https://github.com/tatpongkatanyukul/Learn/blob/main/fun/Calvin_Benson_1607740.pdf) (Photosynthesis)
   * Suzanne Simard's tree talk
   * [Radioactive substance and geiger counter](https://github.com/tatpongkatanyukul/Learn/blob/main/fun/radioactive.md)
