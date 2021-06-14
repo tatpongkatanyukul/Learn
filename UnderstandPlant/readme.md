@@ -1,6 +1,6 @@
 # Understand Plants: Part 1
 
-[My questions]
+[My questions](https://github.com/tatpongkatanyukul/Learn/blob/main/UnderstandPlant/myplantquestions.md)
 
 ## Week 1
 
