@@ -2,6 +2,10 @@
 
 [My questions](https://github.com/tatpongkatanyukul/Learn/blob/main/UnderstandPlant/myplantquestions.md)
 
+## Textbook
+
+  * What a Plant Knows: A Field Guide to the Senses, Daniel Chamovitz; Scientific American / Farrar, Straus and Giroux; Reprint edition (April 30, 2013)
+
 ## Week 1
 
 ### 1.5 Major themes in plant biology
@@ -21,3 +25,5 @@
 
 My Recall:
 > Prokaryotes are organisms made up of cells that lack a cell nucleus or any membrane-encased organelles. Eukaryotes are organisms made up of cells that possess a membrane-bound nucleus that holds genetic material as well as membrane-bound organelles.
+
+
