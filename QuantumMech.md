@@ -9,6 +9,7 @@ a 4-week online course by J. K. Freericks Georgetown University 2019
 
 ## The quantum mechanics of light
 
+Course / The quantum mechanics of light / Wave or Particle?
 
 ## Advanced quantum ideas with light
 
