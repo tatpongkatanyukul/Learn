@@ -38,6 +38,11 @@ where
   * Token ```bash``` is the command to run. In this case, it is a bash shell.
 
 ```
+docker run -v /home/tatpong/sandbox:/home/sandbox -it python39_image bash
+```
+
+
+```
 docker run --rm -v /home/tatpong/sandbox:/home/sandbox -it p35:201226 bash
 ```
 where
