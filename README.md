@@ -77,6 +77,7 @@
   * [Face recognition tools](https://pypi.org/project/face-recognition)
     * [Dockerfile](https://github.com/ageitgey/face_recognition/raw/master/Dockerfile)
   * [Gym](https://gym.openai.com) RL environment
+  * [Moss---plagiarism detection](https://theory.stanford.edu/~aiken/moss/)
 
 ## Coursera
 
